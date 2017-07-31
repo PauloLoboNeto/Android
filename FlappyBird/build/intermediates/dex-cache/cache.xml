@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Paulo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\Paulo\Desktop\FlappyBird\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_fc3ad0f0c0d0b26416bc90918b35b5877b541446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Paulo\Desktop\FlappyBird\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fc2c038d70434c1bd9894f5c741fffc00fffbf8e">
+        <dex dex="C:\Users\Paulo\Desktop\FlappyBird\android\build\intermediates\pre-dexed\debug\core-1.0_af2e84cb834bcc0bf9fa67269e8be7b4c675a03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Paulo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\Paulo\Desktop\FlappyBird\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_3c3403869096c0c68dd361e31bca5d1aae44102d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Paulo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Users\Paulo\Desktop\FlappyBird\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.6_8bb0e33e6cc8ad1d5972db1cd34b62f3b43463ee.jar" />
+    </item>
+
+</items>
